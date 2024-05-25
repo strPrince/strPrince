@@ -1,4 +1,7 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappy05dz.tumblr.com%2F&psig=AOvVaw1TpapK7wd-YIKlYkYIWOU3&ust=1716731898562000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMhOj6qIYDFQAAAAAdAAAAABAE" data-target="animated-image.originalLink"><img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappy05dz.tumblr.com%2F&psig=AOvVaw1TpapK7wd-YIKlYkYIWOU3&ust=1716731898562000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMhOj6qIYDFQAAAAAdAAAAABAE](https://assets-global.website-files.com/635e632477408d12d1811a64/64062c5a083e545615ea9f2b_Programming-3-1.gif)" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappy05dz.tumblr.com%2F&psig=AOvVaw1TpapK7wd-YIKlYkYIWOU3&ust=1716731898562000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMhOj6qIYDFQAAAAAdAAAAABAE" data-target="animated-image.originalLink">
+
+  <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <h1 align="center">Hi 👋, I'm Prince Chaniyara</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
