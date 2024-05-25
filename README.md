@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" data-target="animated-image.originalLink"></a>
 <h1 align="center">Hi 👋, I'm Prince Chaniyara</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
