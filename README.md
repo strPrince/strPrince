@@ -1,4 +1,4 @@
-<a target="_blank" rel="noopener noreferrer nofollow" href="<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif" data-target="animated-image.originalLink"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhappy05dz.tumblr.com%2F&psig=AOvVaw1TpapK7wd-YIKlYkYIWOU3&ust=1716731898562000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDMhOj6qIYDFQAAAAAdAAAAABAE"></a>
 <h1 align="center">Hi 👋, I'm Prince Chaniyara</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
