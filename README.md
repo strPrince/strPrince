@@ -3,15 +3,15 @@
   <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <h1 align="center">Hi 👋, I'm Prince Chaniyara</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Billify**
+- 🔭 I’m currently working on **Something exciting** coming soon!!
 
-- 🌱 I’m currently learning **Jetpack compose , react**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/strPrince](https://github.com/strPrince)
 
-- 💬 Ask me about **Android ,frontend devlopment**
+- 💬 Ask me about **Fullstack devlopment**
 
 - 📫 How to reach me **chaniyaraprince1@gmail.com**
 
